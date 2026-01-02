@@ -52,7 +52,10 @@ const LibraryFlowerSection = () => {
           </h1>
           <p className="text-sm md:text-base mb-6 max-w-2xl mx-auto">
             The LRH Reference Library is the online SOURCE of
-            AOGP International's philosophy, principles and practices.
+            AOGP International's philosophy, principles and practices.<br/>
+
+            “Scientology does not teach you. It only reminds you. For the information was yours in the first place.” 
+            ~ L. Ron Hubbard, Scientology: The Fundamentals of Thought
           </p>
           <button className="text-sm md:text-base underline uppercase tracking-wide hover:text-gray-300 transition-colors duration-300">
             Visit The LRH Library

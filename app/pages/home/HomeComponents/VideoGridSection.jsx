@@ -139,11 +139,11 @@ export default function VideoGridSection() {
     <section className="bg-linear-to-b from-sky-50 to-white py-12">
       <div className="mx-auto max-w-5xl px-4 text-center">
         <h2 className="mb-2 text-3xl font-serif text-gray-800">
-          Featured Video Content
+          Scientology Outside of the Church Podcast
         </h2>
         <p className="mb-8 text-sm text-gray-600">
-          Watch our latest videos exploring spiritual technology, auditing
-          insights, and Independent Scientology principles.
+          Watch our latest podcasts exploring spiritual technology, remote auditing, 
+          and Independent Scientology principles with Jonathan, Quenton and Arthur.
         </p>
 
         {/* Grid wrapper: left vertical labels + mosaic */}

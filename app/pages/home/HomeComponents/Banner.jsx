@@ -103,27 +103,27 @@ export default function Banner({ autoplayInterval = 6000 }) {
           <div className="flex items-center justify-center gap-16 md:gap-24 text-center">
             <div className="flex flex-col items-center cursor-pointer group">
               <h1 className="text-[16px] font-semibold w-32 bg-[#a03a46] text-white px-4 py-1.5 transition-all duration-300 group-hover:bg-[#8a2f3a] group-hover:scale-105">
-                EXPLORE
+                LEARN MORE
               </h1>
               <div className="text-[28px] md:text-[32px] leading-tight mt-4 font-medium tracking-tight">
                 <p className="transition-all duration-300 group-hover:text-[#a03a46]">
-                  What AOGP International
+                  How Does AOGP International
                 </p>
                 <p className="transition-all duration-300 group-hover:text-[#a03a46]">
-                  Believe
+                  Help?
                 </p>
               </div>
             </div>
             <div className="flex flex-col items-center cursor-pointer group">
               <h1 className="text-[16px] font-semibold w-32 bg-[#a03a46] text-white px-4 py-1.5 transition-all duration-300 group-hover:bg-[#8a2f3a] group-hover:scale-105">
-                EXPLORE
+                LEARN MORE
               </h1>
               <div className="text-[28px] md:text-[32px] leading-tight mt-4 font-medium tracking-tight">
                 <p className="transition-all duration-300 group-hover:text-[#a03a46]">
-                  What AOGP International
+                  What are the Goals of
                 </p>
                 <p className="transition-all duration-300 group-hover:text-[#a03a46]">
-                  Do
+                  AOGP International
                 </p>
               </div>
             </div>

@@ -53,13 +53,13 @@ export default function Navbar() {
 
           {/* Center nav - Desktop */}
           <div className="hidden 2xl:flex items-center gap-8">
-            <CenterUnderlineLink href="#">
+            <CenterUnderlineLink href="https://www.ao-gp.org/personality-test/start">
               Personality Test
             </CenterUnderlineLink>
-            <CenterUnderlineLink href="#">Contact</CenterUnderlineLink>
+            <CenterUnderlineLink href="mailto:reverendqs@gmail.com?subject=Contact from Website">Contact</CenterUnderlineLink>
             {/* Login as a button with hover effect */}
             <a
-              href="#"
+              href="https://members.ao-gp.org/signin"
               className="relative uppercase tracking-wide text-[16px] bg-[#c9a674] text-white px-6 py-2 rounded-sm hover:bg-[#b89a5f] transition-colors duration-300 cursor-pointer"
             >
               Login

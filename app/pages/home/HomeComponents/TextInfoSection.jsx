@@ -33,8 +33,8 @@ const TextInfoSection = () => {
             OGP International was founded in 2011 and has been in continuous
             operation for over 15 years. We are one of the most active and
             upstat organizations in the Independent Scientology field, having
-            helped over 200 individuals begin or continue their Bridge through
-            auditing coordination, training, study, and spiritual guidance.
+            helped over 300 individuals begin or continue their Bridge through
+            remote auditing, training, personal study, and spiritual guidance.
             <br/>
             <br />
              Our
@@ -66,16 +66,16 @@ const TextInfoSection = () => {
             >
               I
             </span>
-            Independent Scientology refers to the study and application of
+            ndependent Scientology refers to the study and application of
             L. Ron Hubbard’s spiritual technology outside of the institutional
             Church structure. It is practiced by individuals and groups who
-            value standard tech, personal responsibility, and freedom of
+            value original standard tech, personal responsibility, and freedom of
             spiritual choice. 
             <br /><br />
             AOGP International operates fully independently
-            and provides access to materials, training pathways, and auditing
-            coordination while respecting the autonomy of each individual’s
-            spiritual journey.
+            and provides access to materials, training pathways, and remote auditing 
+            while respecting the autonomy of each individual’s
+            spiritual journey in adherence to LRH tech.
           </p>
         </div>
 

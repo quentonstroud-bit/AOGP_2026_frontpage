@@ -16,9 +16,14 @@ const ExploreSection = () => {
           Endeavor College of <br/> Independent Scientology
         </div>
 
-        <button className="rounded-full border border-[#B19F52] text-[#B19F52] bg-[#1d4e8f] text-base sm:text-[17px] py-2 px-6 sm:px-7 mt-2 hover:bg-[#1a4590] transition-colors duration-300">
-          Enroll Now!
-        </button>
+        <a 
+  href="https://members.ao-gp.org/signin" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="inline-block rounded-full border border-[#B19F52] text-[#B19F52] bg-[#1d4e8f] text-base sm:text-[17px] py-2 px-6 sm:px-7 mt-2 hover:bg-[#1a4590] transition-colors duration-300"
+>
+  Enroll Now!
+</a>
       </div>
     </div>
   );

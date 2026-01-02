@@ -22,13 +22,16 @@ const LibraryFlowerSection = () => {
             <p className="mt-4 mb-2 text-3xl uppercase tracking-wide font-semibold">
                Five Core Beliefs 
             </p>
-            <br/><br/>
+            <br/>
             <p className="text-base md:text-xl font-serif leading-relaxed  text-start ml-0 2xl:ml-25">
-              1. Man is a spiritual being capable of improvement.<br /> 2. Knowledge
-              increases responsibility and freedom. <br/> 3. Life is best understood
-              and improved through application. <br/> 4. Spiritual progress is
-              individual and self-determined. <br/> 5. The Bridge exists to be
-              traveled, not merely studied.
+              1. Man is an immortal spiritual being.<br /> 
+              2. His experience extends well beyond a single lifetime. <br/> 
+              3. His capabilities are unlimited, even if not presently realized. <br/> 
+              4. Scientology further holds Man to be basically good, and that his 
+              spiritual salvation depends upon himself, his fellows and his attainment 
+              of brotherhood with the universe. <br/> 
+              5. Scientology is the study and handling of the spirit in relationship 
+              to itself, universes and other life.
             </p>
             <p className="mt-4 text-base uppercase tracking-wide font-semibold">
               - Independent Scientology -
@@ -50,17 +53,20 @@ const LibraryFlowerSection = () => {
           <h1 className="text-2xl md:text-3xl font-serif mb-2">
             AOGP International LRH Reference Library
           </h1>
+          <button className="text-sm md:text-base underline uppercase tracking-wide hover:text-gray-300 transition-colors duration-300">
+            <a href="https://members.ao-gp.org/signin" 
+            className="text-sm md:text-base underline uppercase tracking-wide hover:text-gray-300 transition-colors duration-300">
+              Visit The LRH Library
+            </a><br/>
+          </button><br/>
           <p className="text-sm md:text-base mb-6 max-w-2xl mx-auto">
-            The LRH Reference Library is the online SOURCE of
-            AOGP International's philosophy, principles and practices.<br/>
+            The online SOURCE of AOGP International's philosophy, principles and practices.<br/><br/>
 
             “Scientology does not teach you. It only reminds you. For the information was yours in the first place.” 
             ~ L. Ron Hubbard, Scientology: The Fundamentals of Thought
           </p>
-          <button className="text-sm md:text-base underline uppercase tracking-wide hover:text-gray-300 transition-colors duration-300">
-            Visit The LRH Library
-          </button>
-        </div>
+          
+        </div><br/><br/>
 
         {/* flower image */}
         <img

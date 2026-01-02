@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2524" data-name="Rectangle 2524" width="23" height="23" transform="translate(-0.089 -0.137)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Twitter" transform="translate(0.089 0.137)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_548" data-name="Rectangle 548" width="23" height="23" transform="translate(-0.089 -0.137)" fill="none"/>
+    <path id="Path_1" data-name="Path 2" d="M45.219,20.49a13.178,13.178,0,0,0,13.3-13.3V6.559a10.293,10.293,0,0,0,2.279-2.406,10.513,10.513,0,0,1-2.66.759,4.927,4.927,0,0,0,2.026-2.533,11.615,11.615,0,0,1-2.912,1.14A4.523,4.523,0,0,0,53.83,2a4.758,4.758,0,0,0-4.686,4.686A2.469,2.469,0,0,0,49.271,7.7a13.093,13.093,0,0,1-9.625-4.939,4.844,4.844,0,0,0-.633,2.406,5.032,5.032,0,0,0,2.026,3.926,4.274,4.274,0,0,1-2.153-.633h0a4.629,4.629,0,0,0,3.8,4.559,3.9,3.9,0,0,1-1.267.127,2.156,2.156,0,0,1-.886-.127,4.8,4.8,0,0,0,4.432,3.292,9.561,9.561,0,0,1-5.826,2.026A3.506,3.506,0,0,1,38,18.21a11.953,11.953,0,0,0,7.219,2.279" transform="translate(-37.449 -0.828)" fill="#fefefc" fill-rule="evenodd"/>
+  </g>
+</svg>

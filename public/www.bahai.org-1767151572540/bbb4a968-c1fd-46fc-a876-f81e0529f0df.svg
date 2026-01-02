@@ -1,0 +1,13 @@
+<svg id="Transparency" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="763" viewBox="0 0 2560 763">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.33" x2="0" y2="0.342" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7B1A0C" stop-opacity="0"/>
+      <stop offset="0.331" stop-color="#7B1A0C" stop-opacity="0.392"/>
+      <stop offset="0.5" stop-color="#7B1A0C"/>
+      <stop offset="0.668" stop-color="#7B1A0C" stop-opacity="0.678"/>
+      <stop offset="1" stop-color="#7B1A0C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rechteck_2570" data-name="Rechteck 2570" width="2560" height="763" fill="url(#linear-gradient)"/>
+  <rect id="Rechteck_2572" data-name="Rechteck 2572" width="2560" height="763" fill="url(#linear-gradient)"/>
+</svg>
